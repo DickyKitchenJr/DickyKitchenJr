@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dickykitchenjr&label=Profile%20views&color=0e75b6&style=flat" alt="dickykitchenjr" /> </p>
 
-- 🌱 I’m currently learning **Next.js and Redux**
+- 🌱 I’m currently learning **Next.js, Vite, and Redux**
 
 - 👨‍💻 My portfolio is available at [https://dickykitchen.com/](https://dickykitchen.com/)
 
