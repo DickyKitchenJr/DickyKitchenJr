@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dicky Kitchen Jr</h1>
-<h3 align="center">A passionate frontend developer from the USA who is always looking to learn and improve.</h3>
+<h3 align="center">A passionate software developer from the USA who is always looking to learn and improve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dickykitchenjr&label=Profile%20views&color=0e75b6&style=flat" alt="dickykitchenjr" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 My portfolio is available at [https://dickykitchen.com/](https://dickykitchen.com/)
 
