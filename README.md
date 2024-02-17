@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dickykitchenjr&label=Profile%20views&color=0e75b6&style=flat" alt="dickykitchenjr" /> </p>
 
-- 🔭 I’m currently working on [creating an Admin section for IndieBookVault.com](https://github.com/DickyKitchenJr/ibv-admin-frontend)
+- 🔭 I’m currently working on: TBD
 
 - 🌱 The next thing I plan to learn is: **Typescript**
 
