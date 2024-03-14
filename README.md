@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Dicky Kitchen Jr</h1>
 <h3 align="center">A passionate frontend developer from USA who is always looking to learn.</h3>
 
+<p>I specialize in React.js and JavaScript development. I also have full stack experience using Node.js, Express.js, MySQL, and testing with Jest. I have developed both single-page and multi-page applications and have taken several projects through from conception to deployment. My current focus is Typescript and I have several examples of my work below that use tools in addition to the above, such as react-router-dom, Ecwid store, Vercel and more.
+
+In addition to my technical skills, I bring a range of soft skills to my work, including effective verbal and written communication, a team-oriented mindset, problem-solving, creativity, and adaptability. I'm always eager to learn and improve, and I value constructive feedback as an opportunity to grow and develop my skills further.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dickykitchenjr&label=Profile%20views&color=0e75b6&style=flat" alt="dickykitchenjr" /> </p>
 
 - 🔭 I’m currently working on: TBD
