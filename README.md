@@ -11,9 +11,9 @@ In addition to my technical skills, I bring a range of soft skills to my work, i
 
 <!-- - 🌱 The next thing I plan to learn is: **Typescript** -->
 
-- 👨‍💻 My portfolio is available at [https://dickykitchen.com/](https://dickykitchen.com/)
+- 👨‍💻 My portfolio is available at: [https://dickykitchen.com/](https://dickykitchen.com/)
 
-- ⚡ Fun fact **I write and publish fiction as a side project, and currently have 3 books available.**
+- ⚡ Fun fact: **I write and publish fiction as a side project, and currently have 3 books available.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
