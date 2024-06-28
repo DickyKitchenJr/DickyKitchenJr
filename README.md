@@ -7,7 +7,7 @@ In addition to my technical skills, I bring a range of soft skills to my work, i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dickykitchenjr&label=Profile%20views&color=0e75b6&style=flat" alt="dickykitchenjr" /> </p>
 
-<!-- - 🔭 I’m currently working on: **learning Typescript** -->
+- 🔭 I’m currently working on: **learning C# and .NET**
 
 <!-- - 🌱 The next thing I plan to learn is: **Typescript** -->
 
